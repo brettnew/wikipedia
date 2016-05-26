@@ -1,0 +1,24 @@
+.sidebar {
+  width: 15%;
+  float: left;
+  margin-top:
+}
+.border{
+  border: 2px;
+}
+.container{
+  border: 2px;
+  background-color:#ccffdd;
+}
+
+.jumbotron {
+  background-color:#ccffdd;
+  font-size: 20px;
+}
+.column{
+  border: 2px;
+}
+
+.jumbotron2 {
+  background-color:#b3e6ff;
+}
